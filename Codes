@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Mods Website</title> 
+  <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file --> 
+ </head> 
+ <body> 
+  <header> 
+   <h1>Welcome to Mods Website</h1> 
+   <nav> 
+    <footer> 
+     <p>© 2023 Mods Website. All rights reserved.</p> 
+    </footer> 
+   </nav> 
+  </header> 
+  <section id="mods"> 
+   <h2>Mods</h2> <!-- Link to another page --> <a href="https://link-center.net/436533/lightsaberb1">Naruto</a> 
+   <h2></h2> <a href="https://mcpeio.wordpress.com/2022/11/20/modern-gun/">Gun</a> 
+   <h2></h2> <a href="https://lootlinks.co/s?cMy9">SuperCar</a> 
+   <h2></h2> <a href="https://direct-link.net/379796/opwg-4-75-beh">One piece</a> 
+   <h2></h2> <a href="https://link-target.net/436021/behavior-pack1">Dragon ball</a> 
+   <h2></h2> <a href="">Marvel</a> 
+   <h2></h2> <a href="">Criminal </a> 
+   <h2></h2> <a href="">Wither Storm</a> 
+   <h2></h2> <a href="">Skibidi Toilet</a> 
+   <h2></h2> <a href="">Ben10</a> 
+   <h2></h2> <a href="">Morph/ Métamorphose</a> 
+   <h2></h2> <a href="">Portal Gun</a> 
+   <h2></h2> <a href="">Godzilla</a> 
+   <h2></h2> <a href="">SCP</a> 
+   <h2></h2> <a href="">Siren Head</a> 
+   <h2></h2> <a href="">Lucky Blocs</a> 
+  </section> 
+ </body>
+</html>
